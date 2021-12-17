@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "../../../vendor/zhanxin/laravel-admin": ">=1.0"
+        "zhanxin/laravel-admin": ">=1.0"
     },
     "autoload": {
         "psr-4": {
